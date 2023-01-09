@@ -12,7 +12,7 @@
     "dotenv": "5.0.0",
     "fast-csv": "3.0.1",
     "fast-glob": "2.2.7",
-    "luxon": "1.16.0",
+    "luxon": "1.28.1",
     "puppeteer": "1.13.0"
   }
 }
